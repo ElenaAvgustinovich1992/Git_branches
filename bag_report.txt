@@ -1,0 +1,8 @@
+id
+Bug Summary 
+Steps to reproduce
+Actual Result
+Expected Result 
+Severity
+Priority
+Attach
