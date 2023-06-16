@@ -8,19 +8,19 @@
 - Charles
 - Mobile testing
  
-` git branch Postman `
+`git branch Postman `
 
-` git branch Jmeter`
+`git branch Jmeter`
 
-` git branch CheckLists `  
+`git branch CheckLists `  
 
-` git branch Bag_Reports`
+`git branch Bag_Reports`
 
-` git branch SQL `
+`git branch SQL `
 
-` git branch Charles`
+`git branch Charles`
 
-` git branch Mobile_testing`
+`git branch Mobile_testing`
 
 ## 2. Push all branches to remote repository:
 
