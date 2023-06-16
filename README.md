@@ -60,16 +60,7 @@ Attach`
 
 Resalt:
 
-` Fast-forward `
-
-` Fast-forward`
-
- `bag_report.txt | 8 ++++++++` `
-
- `1 file changed, 8 insertions(+)`
-
- `create mode 100644 bag_report.txt `
-
+ `create mode 100644 bag_report.txt`
 
 ## 6. Push main branch to remote repository:
 
