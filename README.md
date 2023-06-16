@@ -34,7 +34,7 @@
 
  with text 
 
- `Bug Summary 
+Bug Summary 
 
 Steps to reproduce
 
@@ -46,7 +46,7 @@ Severity
 
 Priority
 
-Attach`
+Attach
 
 ## 4. Push the bug report structure to remote repository:
 `git add .` 
